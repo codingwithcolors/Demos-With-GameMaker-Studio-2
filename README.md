@@ -4,7 +4,7 @@
  ## [Breakfast 'n' Bed](https://github.com/codingwithcolors/Demos-With-GameMaker-Studio-2/tree/main/Breakfast-n-Bed)
 A point 'n' click adventure game demo centered around the theme "joy". Of course what's more joyful than family, fun, and sandwiches? This demo with multiple endings was inspired by the genre of 'choose your own adventure' books.
 
-## Colors-Quiz
+## [Colors-Quiz](https://github.com/codingwithcolors/Demos-With-GameMaker-Studio-2/tree/main/Colors-Quiz)
 An educational game demo based on the theme "colors". This demo quizzes the player on a fun fact on each of the seven colors of the rainbow. The player must answer all seven questions correctly to return color back to the monochrome gray world.
 
 ## [Intro-Tile-and-Animation](https://github.com/codingwithcolors/Demos-With-GameMaker-Studio-2/tree/main/Intro-Tile-and-Animation)

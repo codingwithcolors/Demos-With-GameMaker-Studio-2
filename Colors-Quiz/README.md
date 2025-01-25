@@ -41,5 +41,5 @@ _Shaders Tutorial by Gamemaker Station_
 _Pixel sprites (player and masked men) by Pipoya_
 	- https://pipoya.itch.io/pipoya-free-rpg-character-sprites-32x32
 
-#Music by Jangwa
+_Music by Jangwa_
 	- https://freemusicarchive.org/music/Dilating_Times/
