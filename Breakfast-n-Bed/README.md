@@ -6,6 +6,12 @@ You play as a young girl named Susy. Susy's mom is sick with the flu and stuck i
 
 There are 8 unique endings. Some sandwiches even help Susy's mom feel better! ...while others...may make her more sick. Can you find them all and bring joy back to Susy's mom?"
 
+## How To Play
+- Download all files
+- Run the "Breakfast-n-Bed.yyp"
+- Press space to navigate through menu.
+- Point and click on the ingredients to make the perfect sandwich
+
 ## Ending Guide (Spoilers ahead!):
 **Nothing Ending**
 	- Don't click on any items. Click Finish.
