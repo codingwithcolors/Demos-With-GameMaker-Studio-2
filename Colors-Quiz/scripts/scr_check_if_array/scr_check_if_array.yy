@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_check_if_array",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_check_if_array",
+  "parent":{
+    "name":"Messages",
+    "path":"folders/Scripts/Messages.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

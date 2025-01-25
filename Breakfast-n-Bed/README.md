@@ -38,11 +38,10 @@ There are 8 unique endings. Some sandwiches even help Susy's mom feel better! ..
 	- Make any combination that is not listed above. Click Finish.
 
 ## Helpful Resources Used:
-
 _Custom Cursor Demo by GamemakerCasts_
-https://www.youtube.com/watch?v=5T_QYiBrd_s
+- ttps://www.youtube.com/watch?v=5T_QYiBrd_s
 
 _FrostyCat for explaining how to have multiple endings_
-https://forum.yoyogames.com/index.php?threads/how-not-to-use-and.12871/
+- https://forum.yoyogames.com/index.php?threads/how-not-to-use-and.12871/
 
 _Music by Ketsa on freemusicarchive.org_
